@@ -1,0 +1,17 @@
+.pio/
+
+.pio-env/
+.venv/
+
+sdkconfig
+sdkconfig.old
+sdkconfig.*
+
+CMakeCache.txt
+CMakeLists.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+.cache/
+.clangd
